@@ -1,0 +1,2 @@
+Product,Defect Type,Severity,Line,Machine,Shift,Batch,Inspector,RootCause
+12,Hole,Critical,Line_A,M103,Night,B001,Inspector_1,Misaligned Roller

@@ -1,0 +1,8 @@
+{
+  "name": "defect-qc-frontend",
+  "version": "2.0.0",
+  "dependencies": {
+    "react": "^18.2.0",
+    "firebase": "^10.0.0"
+  }
+}
